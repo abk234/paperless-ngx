@@ -113,5 +113,4 @@ celerybeat-schedule*
 
 # Personal configuration files with hardcoded paths
 com.paperless.backup.plist
-backup-paperless.sh
 backup.log
