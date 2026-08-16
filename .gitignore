@@ -115,3 +115,11 @@ celerybeat-schedule*
 # Personal configuration files with hardcoded paths
 com.paperless.backup.plist
 backup.log
+
+# Local fork-and-run-local lifecycle (secrets, overrides, proxy pid)
+scripts/paperless-app.env
+scripts/.paperless-lan-proxy.pid
+docker/compose/docker-compose.override.yml
+docker/compose/docker-compose.local.env
+docker/compose/consume/
+docker/compose/export/
