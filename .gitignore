@@ -123,3 +123,4 @@ docker/compose/docker-compose.override.yml
 docker/compose/docker-compose.local.env
 docker/compose/consume/
 docker/compose/export/
+scripts/.paperless-admin-credentials
